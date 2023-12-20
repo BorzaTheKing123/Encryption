@@ -25,7 +25,7 @@ class Encryption:
                 if counter == 0:
                     i = bin(int(str(i), 2) + int(str(k), 2))
                 elif counter == 1:
-                    i = bin(int(str(i), 2)  int(str(k), 2))
+                    i = bin(int(str(i), 2) + int(str(k), 2))
 
             self.file_bin_e.append(i[2:])
         pos = 0
