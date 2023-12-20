@@ -1,3 +1,3 @@
-Mami je fižol.
-Tati je grah!
-Jaka je inteligenten?
+Samo je kralj!
+janJedenar45
+2324Jaka
